@@ -1,0 +1,176 @@
+2013-06-23 12:23:18		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-06-23 12:32:56	=!=	irc: unknown option for "server" command
+2013-06-23 12:33:02		[core]
+2013-06-23 12:33:02		  away    buffer  command debug   filter  history key     mouse   plugin  quit    repeat  set     upgrade version window 
+2013-06-23 12:33:02		  bar     color   cursor  eval    help    input   layout  mute    proxy   reload  save    unset   uptime  wait   
+2013-06-23 12:33:02		[aspell]
+2013-06-23 12:33:02		  aspell
+2013-06-23 12:33:02		[python]
+2013-06-23 12:33:02		  python
+2013-06-23 12:33:02		[xfer]
+2013-06-23 12:33:02		  me   xfer
+2013-06-23 12:33:02		[lua]
+2013-06-23 12:33:02		  lua
+2013-06-23 12:33:02		[tcl]
+2013-06-23 12:33:02		  tcl
+2013-06-23 12:33:02		[alias]
+2013-06-23 12:33:02		  AAWAY   AME     ANICK   C       CL      EXIT    J       KB      M       N       REDRAW  SIGNOFF UB      unalias W       WI      WW     
+2013-06-23 12:33:02		  alias   AMSG    BYE     CHAT    CLOSE   IG      K       LEAVE   MUB     Q       SAY     T       UMODE   V       WC      WII    
+2013-06-23 12:33:02		[relay]
+2013-06-23 12:33:02		  relay
+2013-06-23 12:33:02		[logger]
+2013-06-23 12:33:02		  logger
+2013-06-23 12:33:02		[perl]
+2013-06-23 12:33:02		  perl
+2013-06-23 12:33:02		[script]
+2013-06-23 12:33:02		  script
+2013-06-23 12:33:02		[rmodifier]
+2013-06-23 12:33:02		  rmodifier
+2013-06-23 12:33:02		[charset]
+2013-06-23 12:33:02		  charset
+2013-06-23 12:33:02		[irc]
+2013-06-23 12:33:02		  admin      cycle      disconnect join       lusers     names      part       reconnect  sapart     squit      unban      wallops   
+2013-06-23 12:33:02		  allchan    dcc        halfop     kick       map        nick       ping       rehash     saquit     stats      userhost   who       
+2013-06-23 12:33:02		  allserv    dehalfop   ignore     kickban    me         notice     pong       restart    server     summon     users      whois     
+2013-06-23 12:33:02		  ban        deop       info       kill       mode       notify     query      sajoin     service    time       version    whowas    
+2013-06-23 12:33:02		  connect    devoice    invite     links      motd       op         quiet      samode     servlist   topic      voice     
+2013-06-23 12:33:02		  ctcp       die        ison       list       msg        oper       quote      sanick     squery     trace      wallchops 
+2013-06-23 12:33:02		[ruby]
+2013-06-23 12:33:02		  ruby
+2013-06-23 12:33:16	=!=	irc: unknown option for "server" command
+2013-06-23 12:33:30	=!=	irc: too few arguments for "server add" command
+2013-06-23 12:33:40		[core]
+2013-06-23 12:33:40		  away    buffer  command debug   filter  history key     mouse   plugin  quit    repeat  set     upgrade version window 
+2013-06-23 12:33:40		  bar     color   cursor  eval    help    input   layout  mute    proxy   reload  save    unset   uptime  wait   
+2013-06-23 12:33:40		[aspell]
+2013-06-23 12:33:40		  aspell
+2013-06-23 12:33:40		[python]
+2013-06-23 12:33:40		  python
+2013-06-23 12:33:40		[xfer]
+2013-06-23 12:33:40		  me   xfer
+2013-06-23 12:33:40		[lua]
+2013-06-23 12:33:40		  lua
+2013-06-23 12:33:40		[tcl]
+2013-06-23 12:33:40		  tcl
+2013-06-23 12:33:40		[alias]
+2013-06-23 12:33:40		  AAWAY   AME     ANICK   C       CL      EXIT    J       KB      M       N       REDRAW  SIGNOFF UB      unalias W       WI      WW     
+2013-06-23 12:33:40		  alias   AMSG    BYE     CHAT    CLOSE   IG      K       LEAVE   MUB     Q       SAY     T       UMODE   V       WC      WII    
+2013-06-23 12:33:40		[relay]
+2013-06-23 12:33:40		  relay
+2013-06-23 12:33:40		[logger]
+2013-06-23 12:33:40		  logger
+2013-06-23 12:33:40		[perl]
+2013-06-23 12:33:40		  perl
+2013-06-23 12:33:40		[script]
+2013-06-23 12:33:40		  script
+2013-06-23 12:33:40		[rmodifier]
+2013-06-23 12:33:40		  rmodifier
+2013-06-23 12:33:40		[charset]
+2013-06-23 12:33:40		  charset
+2013-06-23 12:33:40		[irc]
+2013-06-23 12:33:40		  admin      cycle      disconnect join       lusers     names      part       reconnect  sapart     squit      unban      wallops   
+2013-06-23 12:33:40		  allchan    dcc        halfop     kick       map        nick       ping       rehash     saquit     stats      userhost   who       
+2013-06-23 12:33:40		  allserv    dehalfop   ignore     kickban    me         notice     pong       restart    server     summon     users      whois     
+2013-06-23 12:33:40		  ban        deop       info       kill       mode       notify     query      sajoin     service    time       version    whowas    
+2013-06-23 12:33:40		  connect    devoice    invite     links      motd       op         quiet      samode     servlist   topic      voice     
+2013-06-23 12:33:40		  ctcp       die        ison       list       msg        oper       quote      sanick     squery     trace      wallchops 
+2013-06-23 12:33:40		[ruby]
+2013-06-23 12:33:40		  ruby
+2013-06-23 12:34:11	=!=	irc: server "freenode" already exists, can't create it!
+2013-06-23 12:34:21		irc: Server freenode has been deleted
+2013-06-23 12:34:25		irc: server freenode created
+2013-06-23 12:34:28	=!=	You can not write text in this buffer
+2013-06-23 12:34:33		[irc]  /server  list|listfull [<server>]
+2013-06-23 12:34:33		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2013-06-23 12:34:33		                copy|rename <server> <new_name>
+2013-06-23 12:34:33		                del|keep <server>
+2013-06-23 12:34:33		                deloutq|jump|raw
+2013-06-23 12:34:33		list, add or remove IRC servers
+2013-06-23 12:34:33		    list: list servers (without argument, this list is displayed)
+2013-06-23 12:34:33		listfull: list servers with detailed info for each server
+2013-06-23 12:34:33		     add: create a new server
+2013-06-23 12:34:33		  server: server name, for internal and display use
+2013-06-23 12:34:33		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2013-06-23 12:34:33		    temp: create temporary server (not saved)
+2013-06-23 12:34:33		  option: set option for server (for boolean option, value can be omitted)
+2013-06-23 12:34:33		nooption: set boolean option to 'off' (for example: -nossl)
+2013-06-23 12:34:33		    copy: duplicate a server
+2013-06-23 12:34:33		  rename: rename a server
+2013-06-23 12:34:33		    keep: keep server in config file (for temporary servers only)
+2013-06-23 12:34:33		     del: delete a server
+2013-06-23 12:34:33		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2013-06-23 12:34:33		    jump: jump to server buffer
+2013-06-23 12:34:33		     raw: open buffer with raw IRC data
+2013-06-23 12:34:33		Examples:
+2013-06-23 12:34:33		  /server listfull
+2013-06-23 12:34:33		  /server add oftc irc.oftc.net/6697 -ssl -autoconnect
+2013-06-23 12:34:33		  /server add oftc6 irc6.oftc.net/6697 -ipv6 -ssl
+2013-06-23 12:34:33		  /server add freenode2 chat.eu.freenode.net/6667,chat.us.freenode.net/6667
+2013-06-23 12:34:33		  /server add freenode3 irc.freenode.net -password=mypass
+2013-06-23 12:34:33		  /server copy oftc oftcbis
+2013-06-23 12:34:33		  /server rename oftc newoftc
+2013-06-23 12:34:33		  /server del freenode
+2013-06-23 12:34:33		  /server deloutq
+2013-06-23 16:16:20		Option changed: weechat.bar.status.color_bg = 18  (default: blue)
+2013-06-23 16:16:32		Option changed: weechat.bar.status.color_bg = 1  (default: blue)
+2013-06-23 16:16:40		Option changed: weechat.bar.status.color_bg = 16  (default: blue)
+2013-06-23 16:17:10		Option changed: weechat.bar.title.color_bg = 16  (default: blue)
+2013-06-23 16:18:01		Option changed: weechat.look.save_config_on_exit = on
+2013-06-23 16:19:09		Option changed: irc.server.freenode.autoconnect = on  (default: (undefined))
+2013-06-23 16:19:34		Option changed: irc.server.freenode.autojoin = "#archlinux"  (default: (undefined))
+2013-06-23 16:26:01		[core]  /window  list
+2013-06-23 16:26:01		                 -1|+1|b#|up|down|left|right [-window <number>]
+2013-06-23 16:26:01		                 <number>
+2013-06-23 16:26:01		                 splith|splitv [-window <number>] [<pct>]
+2013-06-23 16:26:01		                 resize [-window <number>] [+/-]<pct>
+2013-06-23 16:26:01		                 balance
+2013-06-23 16:26:01		                 merge [-window <number>] [all]
+2013-06-23 16:26:01		                 page_up|page_down [-window <number>]
+2013-06-23 16:26:01		                 refresh
+2013-06-23 16:26:01		                 scroll [-window <number>] [+/-]<value>[s|m|h|d|M|y]
+2013-06-23 16:26:01		                 scroll_horiz [-window <number>] [+/-]<value>[%]
+2013-06-23 16:26:01		                 scroll_up|scroll_down|scroll_top|scroll_bottom|scroll_previous_highlight|scroll_next_highlight|scroll_unread [-window <number>]
+2013-06-23 16:26:01		                 swap [-window <number>] [up|down|left|right]
+2013-06-23 16:26:01		                 zoom[-window <number>]
+2013-06-23 16:26:01		manage windows
+2013-06-23 16:26:01		         list: list opened windows (without argument, this list is displayed)
+2013-06-23 16:26:01		           -1: jump to previous window
+2013-06-23 16:26:01		           +1: jump to next window
+2013-06-23 16:26:01		           b#: jump to next window displaying buffer number #
+2013-06-23 16:26:01		           up: switch to window above current one
+2013-06-23 16:26:01		         down: switch to window below current one
+2013-06-23 16:26:01		         left: switch to window on the left
+2013-06-23 16:26:01		        right: switch to window on the right
+2013-06-23 16:26:01		       number: window number (see /window list)
+2013-06-23 16:26:01		       splith: split current window horizontally
+2013-06-23 16:26:01		       splitv: split current window vertically
+2013-06-23 16:26:01		       resize: resize window size, new size is <pct> percentage of parent window
+2013-06-23 16:26:01		      balance: balance the sizes of all windows
+2013-06-23 16:26:01		        merge: merge window with another (all = keep only one window)
+2013-06-23 16:26:01		      page_up: scroll one page up
+2013-06-23 16:26:01		    page_down: scroll one page down
+2013-06-23 16:26:01		      refresh: refresh screen
+2013-06-23 16:26:01		       scroll: scroll a number of lines (+/-N) or with time: s=seconds, m=minutes, h=hours, d=days, M=months, y=years
+2013-06-23 16:26:01		 scroll_horiz: scroll horizontally a number of columns (+/-N) or percentage of window size (this scrolling is possible only on buffers with free content)
+2013-06-23 16:26:01		    scroll_up: scroll a few lines up
+2013-06-23 16:26:01		  scroll_down: scroll a few lines down
+2013-06-23 16:26:01		   scroll_top: scroll to top of buffer
+2013-06-23 16:26:01		scroll_bottom: scroll to bottom of buffer
+2013-06-23 16:26:01		scroll_previous_highlight: scroll to previous highlight
+2013-06-23 16:26:01		scroll_next_highlight: scroll to next highlight
+2013-06-23 16:26:01		scroll_unread: scroll to unread marker
+2013-06-23 16:26:01		         swap: swap buffers of two windows (with optional direction for target window)
+2013-06-23 16:26:01		         zoom: zoom on window
+2013-06-23 16:26:01		For splith and splitv, pct is a percentage which represents size of new window, computed with current window as size reference. For example 25 means create a new window with size = current_size / 4
+2013-06-23 16:26:01		Examples:
+2013-06-23 16:26:01		  jump to window displaying buffer #1:
+2013-06-23 16:26:01		    /window b1
+2013-06-23 16:26:01		  scroll 2 lines up:
+2013-06-23 16:26:01		    /window scroll -2
+2013-06-23 16:26:01		  scroll 2 days up:
+2013-06-23 16:26:01		    /window scroll -2d
+2013-06-23 16:26:01		  scroll to beginning of current day:
+2013-06-23 16:26:01		    /window scroll -d
+2013-06-23 16:26:01		  zoom on window #2:
+2013-06-23 16:26:01		    /window zoom -window 2
+2013-06-23 23:29:32		fifo: pipe closed
